@@ -1,0 +1,17 @@
+/* Mengatur latar belakang dengan efek blur */
+.navbar {
+  background: rgba(255, 255, 255, 0.5); /* Ubah warna latar belakang dan opacity sesuai kebutuhan */
+  backdrop-filter: blur(10px); /* Efek blur pada latar belakang */
+}
+
+.social-media a{
+  color: black;
+}
+
+.myfooter a {
+  text-decoration: none;
+}
+
+.social-media-footer a{
+  color: rgb(87, 87, 87);
+}
